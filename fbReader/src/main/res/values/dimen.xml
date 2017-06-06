@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ambilwarna_hsvHeight">240dp</dimen>
+    <dimen name="ambilwarna_hsvWidth">240dp</dimen>
+    <dimen name="ambilwarna_hueWidth">30dp</dimen>
+    <dimen name="ambilwarna_spacer">8dp</dimen>
+
+    <!-- General dimensions -->
+    <dimen name="toast_hover">64dp</dimen>
+    <dimen name="buttontoast_hover">24dp</dimen>
+    <dimen name="buttontoast_x_padding">12dp</dimen>
+    <dimen name="cardtoast_margin">4dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="btn_fab_size">56dp</dimen>
+    <dimen name="btn_fab_margin">16dp</dimen>
+
+    <dimen name="corner_radius">2dp</dimen>
+    <dimen name="layer_padding">3dp</dimen>
+</resources>

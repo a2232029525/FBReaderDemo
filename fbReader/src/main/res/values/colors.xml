@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#444444</item>
+    <item name="primary_dark" type="color">#222222</item>
+    <color name="afc_border_line_dark">#33B5E5</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#AFFFFFFF</color>
+
+    <!--紫粉-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryLight">#c5cae9</color>
+    <!--SwipeRefreshLayout-->
+    <color name="progressBarBg">#FFFFFF</color>
+    <color name="progressBara">#3F51B5</color>
+    <color name="progressBarb">#303F9F</color>
+    <!--button-->
+    <color name="button_compelete">#3f51b5</color> <!-- 400 -->
+    <color name="button_progress">#3f51b5</color> <!-- 400 -->
+    <color name="button_normal">#738ffe</color> <!-- 400 -->
+    <color name="button_press">#5677fc</color>
+    <color name="button_error">#ff80a8</color>
+
+    <!--button-->
+    <color name="bookmark_1">#9640bd</color> <!-- 400 -->
+    <color name="bookmark_2">#ed6a00</color> <!-- 400 -->
+    <color name="bookmark_3">#74b408</color> <!-- 400 -->
+
+
+    <!--绿色-->
+    <color name="primarys1">#009688</color>
+    <color name="primarys_dark1">#00897b</color>
+    <color name="primary_light1">#B2DFDB</color>
+    <color name="accent1">#ffb74d</color>
+
+    <color name="fontColor">#532d17</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="tab_bgcolor">#eeeeee</color>
+
+    <color name="status_blue">#2a36b1</color>        <!-- 900 -->
+    <color name="navigation_blue">#455ede</color>    <!-- 700 -->
+    <color name="action_blue">#5677fc</color>        <!-- 500 -->
+    <color name="bg_blue">#738ffe</color>    <!-- 400 -->
+    <color name="window_bg_blue">#91a7ff</color>     <!-- 300 -->
+    <color name="fg_blue">#e7e9fd</color>    <!-- 50 -->
+    <color name="control_activated_blue">#4d69ff</color>    <!-- A700 -->
+    <color name="control_highlight_blue">#afbfff</color>    <!-- 200 -->
+    <color name="control_normal_blue">#e7e9fd</color>    <!-- 50 -->
+    <color name="button_normal_blue">#738ffe</color> <!-- 400 -->
+</resources>

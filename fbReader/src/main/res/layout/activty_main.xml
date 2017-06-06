@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/bteup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试eup" />
+
+    <Button
+        android:id="@+id/bthtml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试html" />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直接跳转" />
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Chinese zlibrary resources, by http://shucang.com/ -->
+<resources>
+	<node name="dialog">
+		<node name="button">
+			<node name="ok" value="确定"/>
+			<node name="cancel" value="取消"/>
+			<node name="yes" value="是"/>
+			<node name="no" value="否"/>
+			<node name="apply" value="应用"/>
+		</node>
+
+	</node>
+	<node name="color">
+		<node name="red" value="红色"/>
+		<node name="green" value="绿色"/>
+		<node name="blue" value="蓝色"/>
+	</node>
+	<node name="language">
+
+		<node name="zh" value="简体中文"/>
+		<node name="zh_TW" value="繁体中文"/>
+		<node name="system" value="系统"/>
+	</node>
+	<node name="boolean3">
+		<node name="on" value="开"/>
+		<node name="off" value="关"/>
+		<node name="unchanged" value="不变"/>
+	</node>
+	<node name="keyOptionView">
+		<node name="actionFor" value="按键设置快捷操作"/>
+	</node>
+</resources>
